@@ -18,7 +18,7 @@ API
 
 Usage
 ------------------------
-![image](https://github.com/dingwanyu000/extensionStep/blob/master/Usage.png)
+![image](https://github.com/dingwanyu000/vue-diy-treeTableCard/blob/master/usage.png)
 
 Demo Screenshot
 ------------------------
