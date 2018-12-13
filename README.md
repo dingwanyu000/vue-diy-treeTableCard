@@ -22,7 +22,7 @@ Usage
 
 Demo Screenshot
 ------------------------
-![image](https://github.com/dingwanyu000/extensionStep/blob/master/demo.png)
+![image](https://github.com/dingwanyu000/vue-diy-treeTableCard/blob/master/diyCard.png)
 
 License
 ------------------------
